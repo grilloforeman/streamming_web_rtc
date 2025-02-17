@@ -7,7 +7,7 @@ other protocols are more used with video programs, VLC...
 ### install 
 $docker run --rm -it --network=host bluenviron/mediamtx:latest
 
-
+### AFTER
 docker run --rm -it \
 -e MTX_RTSPTRANSPORTS=tcp \
 -e MTX_WEBRTCADDITIONALHOSTS=192.168.x.x \
