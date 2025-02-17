@@ -88,3 +88,18 @@ THEN CHOOSE WHIP, THEN ON THE SERVER PUT ACCORDING TO THE
 
 [![MADONA](obstudio.jpg)]
 
+### AFTER
+
+[![obstudio](obstudio1.jpg)]
+
+## APP Smartphone
+
+The application is configured, i.e. the apk, to respond to a certain IP, perhaps you know the good ones.10. 
+Just create a page or website or play what I said directly and it will open in the app.
+The first time you open it will be the shape it takes.
+
+[![mongoloides](mongoloide.jpg)
+
+
+
+
