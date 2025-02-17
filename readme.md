@@ -86,3 +86,5 @@ THEN CHOOSE WHIP, THEN ON THE SERVER PUT ACCORDING TO THE
 
 ``` http://191.252.185.191:8889/mya/whip ```
 
+[![MADONA](obstudio.jpg)]
+
