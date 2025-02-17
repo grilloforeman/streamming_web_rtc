@@ -20,7 +20,7 @@ docker run --rm -it \
 bluenviron/mediamtx
 
 
-MODIFY O IP XXX.XXX.XXX FOR USE
+MODIFY O IP XXX.XXX.XXX FOR USE. The app smartphone use 10.xxx.x.x Think. why do I speak
 
 
 
